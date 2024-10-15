@@ -44,3 +44,5 @@
 |               **PAINT_REWARD_MAX**                |                                                MAX Lvl Paint «Reward upgrade» (default - 5)                                                 |
 |              **RE_CHARGE_SPEED_MAX**              |                                              MAX Lvl Recharging «Speed upgrade» (default - 7)                                               |
 
+
+https://t.me/aanhendri
